@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on a machine vision algorithm for a fish-net cleaning robot using OpenCV
+🔭 I’m currently working for Equinor
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikael-kalstad)](https://github.com/anuraghazra/github-readme-stats)
